@@ -1,0 +1,41 @@
+#Programming Project 5 written by Chris Maksimk,Pledged
+from song_library import Songlibrary
+#defines main program 
+def main():
+    print ("Welcome to the DJ Support Program!")
+    while True:  
+        try:
+            #input statment for Song file
+            File_name = input("Enter the name of the song library file:")
+            print("Try reading the input file")
+            with open (File_name) as Song_File:#Opens file
+               Song_lib = Songlibrary(Song_File.readlines())#creates song library object
+            print(f"File {File_name} Loaded.")
+            break
+
+        except:
+            print(f"Sorry, could not locate the input file: {File_name}")#print statment
+    
+    
+
+    print(f"Number of lines (excl. header): {Song_lib.number}")#prints the number of lines
+
+    n = int(input("Start our program with a random playlist of what size?:"))
+    Song_lib.random_songs(n)
+
+
+
+
+
+    User_Artist = input("Enter artist to search for (press bye to quit):")
+    while User_Artist.lower() != "bye":#while loop that ends if selected bye
+        Song_lib.lookup(User_Artist)#uses lookip from song_library to create object
+        User_Artist = input("Enter artist to search for (press bye to quit):")#input statment 
+        
+    
+    print("Good Bye, thank you for using the DJ Support Program!")
+
+
+main()
+
+    
