@@ -1,0 +1,11 @@
+Artist;Title
+Scorpions;Still Loving You
+AC/DC;Dirty Deeds Done Dirt Cheap
+Metallica;The Unforgiven
+Scorpions;Wind of Change
+Deep Purple;Smoke on the Water
+Scorpions;Rock You Like a Hurricane
+Judas Priest;Better By You, Better Than Me
+Black Sabbath;Sabbath Bloody Sabbath
+Ozzy Osbourne;Crazy Train
+Guns N' Roses;Civil War

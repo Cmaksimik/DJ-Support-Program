@@ -1,0 +1,543 @@
+Artist;Title
+K.C. And The Sunshine Band;Please Don't Go
+Michael Jackson;Rock With You
+Captain & Tennille;Do That To Me One More Time
+Queen;Crazy Little Thing Called Love
+Pink Floyd;Another Brick In The Wall (Part II)
+Blondie;Call Me
+"Lipps, Inc.";Funkytown
+Paul McCartney & Wings;Coming Up (Live At Glasgow)
+Billy Joel;It's Still Rock And Roll To Me
+Olivia Newton-John;Magic
+Christopher Cross;Sailing
+Diana Ross;Upside Down
+Queen;Another One Bites The Dust
+Barbra Streisand;Woman In Love
+Kenny Rogers;Lady
+John Lennon;(Just Like) Starting Over
+Blondie;The Tide Is High
+Kool & The Gang;Celebration
+Dolly Parton;9 To 5
+Eddie Rabbitt;I Love A Rainy Night
+REO Speedwagon;Keep On Loving You
+Blondie;Rapture
+"Daryl Hall, John Oates";Kiss On My List
+Sheena Easton;Morning Train (Nine To Five)
+Kim Carnes;Bette Davis Eyes
+Stars On 45;Medley
+Air Supply;The One That You Love
+Rick Springfield;Jessie's Girl
+Diana Ross & Lionel Richie;Endless Love
+Christopher Cross;Arthur's Theme (Best That You Can Do)
+"Daryl Hall, John Oates";Private Eyes
+Olivia Newton-John;Physical
+"Daryl Hall, John Oates";I Can't Go For That (No Can Do)
+The J. Geils Band;Centerfold
+Joan Jett & The Blackhearts;I Love Rock 'N Roll
+Vangelis;Chariots Of Fire
+Paul McCartney & Stevie Wonder;Ebony And Ivory
+The Human League;Don't You Want Me
+Survivor;Eye Of The Tiger
+The Steve Miller Band;Abracadabra
+Chicago;Hard To Say I'm Sorry
+John Cougar;Jack & Diane
+Men At Work;Who Can It Be Now?
+Joe Cocker & Jennifer Warnes;Up Where We Belong
+Lionel Richie;Truly
+Toni Basil;Mickey
+"Daryl Hall, John Oates";Maneater
+Men At Work;Down Under
+Toto;Africa
+Patti Austin with James Ingram;"Baby, Come To Me"
+Michael Jackson;Billie Jean
+Dexys Midnight Runners;Come On Eileen
+Michael Jackson;Beat It
+David Bowie;Let's Dance
+Irene Cara;Flashdance...What A Feeling
+The Police;Every Breath You Take
+Eurythmics;Sweet Dreams (Are Made of This)
+Michael Sembello;Maniac
+Billy Joel;Tell Her About It
+Bonnie Tyler;Total Eclipse Of The Heart
+Kenny Rogers with Dolly Parton;Islands In The Stream
+Lionel Richie;All Night Long (All Night)
+Paul McCartney & Michael Jackson;Say Say Say
+Yes;Owner Of A Lonely Heart
+Culture Club;Karma Chameleon
+Van Halen;Jump
+Kenny Loggins;Footloose
+Phil Collins;Against All Odds (Take A Look At Me Now)
+Lionel Richie;Hello
+Deniece Williams;Let's Hear It For The Boy
+Cyndi Lauper;Time After Time
+Duran Duran;The Reflex
+Prince And The Revolutio;When Doves Cry
+Ray Parker Jr.;Ghostbusters
+Tina Turner;What's Love Got To Do With It
+John Waite;Missing You
+Prince and The Revolution;Let's Go Crazy
+Stevie Wonder;I Just Called To Say I Love You
+Billy Ocean;Caribbean Queen (No More Love On The Run)
+Wham!;Wake Me Up Before You Go-Go
+"Daryl Hall, John Oates";Out Of Touch
+Madonna;Like A Virgin
+Foreigner;I Want To Know What Love Is
+Wham! feat. George Michael;Careless Whisper
+REO Speedwagon;Can't Fight This Feeling
+Phil Collins;One More Night
+USA For Africa;We Are The World
+Madonna;Crazy For You
+Simple Minds;Don't You (Forget About Me)
+Wham!;Everything She Wants
+Tears For Fears;Everybody Wants To Rule The World
+Bryan Adams;Heaven
+Phil Collins;Sussudio
+Duran Duran;A View To A Kill
+Paul Young;Everytime You Go Away
+Tears For Fears;Shout
+Huey Lewis & The News;The Power Of Love
+John Parr;St. Elmo's Fire (Man In Motion)
+Dire Straits;Money For Nothing
+Ready For The World;Oh Sheila
+A-Ha;Take On Me
+Whitney Houston;Saving All My Love For You
+Stevie Wonder;Part-Time Lover
+Jan Hammer;Miami Vice Theme
+Starship;We Built This City
+Phil Collins and Marilyn Martin;Separate Lives
+Mr. Mister;Broken Wings
+Lionel Richie;"Say You, Say Me"
+Dionne & Friends;That's What Friends Are For
+Whitney Houston;How Will I Know
+Mr. Mister;Kyrie
+Starship;Sara
+Heart;These Dreams
+Falco;Rock Me Amadeus
+Prince and The Revolution;Kiss
+Robert Palmer;Addicted To Love
+Pet Shop Boys;West End Girls
+Whitney Houston;Greatest Love Of All
+Madonna;Live To Tell
+Patti LaBelle & Michael McDonald;On My Own
+Billy Ocean;There'll Be Sad Songs (To Make You Cry)
+Simply Red;Holding Back The Years
+Genesis;Invisible Touch
+Peter Gabriel;Sledgehammer
+Peter Cetera;"Glory Of Love (Theme From ""The Karate Kid Part II"")"
+Madonna;Papa Don't Preach
+Steve Winwood;Higher Love
+Bananarama;Venus
+Berlin;"Take My Breath Away (Love Theme From ""Top Gun"")"
+Huey Lewis & The News;Stuck With You
+Janet Jackson;When I Think Of You
+Cyndi Lauper;True Colors
+Boston;Amanda
+The Human League;Human
+Bon Jovi;You Give Love A Bad Name
+Peter Cetera with Amy Grant;The Next Time I Fall
+Bruce Hornsby & The Range;The Way It Is
+The Bangles;Walk Like An Egyptian
+Gregory Abbott;Shake You Down
+Billy Vera & The Beaters;At This Moment
+Madonna;Open Your Heart
+Bon Jovi;Livin' On A Prayer
+Huey Lewis & The News;Jacob's Ladder
+Club Nouveau;Lean On Me
+Starship;Nothing's Gonna Stop Us Now
+Aretha Franklin & George Michael;I Knew You Were Waiting (For Me)
+Cutting Crew;(I Just) Died In Your Arms
+U2;With Or Without You
+Kim Wilde;You Keep Me Hangin' On
+Atlantic Starr;Always
+Lisa Lisa & Cult Jam Featuring Full Force;Head To Toe
+Whitney Houston;I Wanna Dance With Somebody (Who Loves Me)
+Heart;Alone
+Bob Seger;"Shakedown (From ""Beverly Hills Cop II"")"
+U2;I Still Haven't Found What I'm Looking For
+Madonna;Who's That Girl
+Los Lobos;La Bamba
+Michael Jackson with Siedah Garrett;I Just Can't Stop Loving You
+Whitney Houston;Didn't We Almost Have It All
+Whitesnake;Here I Go Again
+Lisa Lisa & Cult Jam feat. Full Force;Lost In Emotion
+Michael Jackson;Bad
+Tiffany;I Think We're Alone Now
+Billy Idol;Mony Mony
+Bill Medley & Jennifer Warnes;(I've Had) The Time Of My Life
+Belinda Carlisle;Heaven Is A Place On Earth
+George Michael;Faith
+Whitney Houston;So Emotional
+George Harrison;Got My Mind Set On You
+Michael Jackson;The Way You Make Me Feel
+INXS;Need You Tonight
+Tiffany;Could've Been
+Expose;Seasons Change
+George Michael;Father Figure
+Rick Astley;Never Gonna Give You Up
+Michael Jackson;Man In The Mirror
+Billy Ocean;"Get Outta My Dreams, Get Into My Car"
+Whitney Houston;Where Do Broken Hearts Go
+Terence Trent D'Arby;Wishing Well
+Gloria Estefan & Miami Sound Machine;Anything For You
+George Michael;One More Try
+Rick Astley;Together Forever
+Debbie Gibson;Foolish Beat
+Michael Jackson;Dirty Diana
+Cheap Trick;The Flame
+Richard Marx;Hold On To The Nights
+Steve Winwood;Roll With It
+George Michael;Monkey
+Guns N' Roses;Sweet Child O' Mine
+Bobby McFerrin;"Don't Worry, Be Happy (From ""Cocktail"")"
+Def Leppard;Love Bites
+UB40;Red Red Wine
+Phil Collins;Groovy Kind Of Love
+The Beach Boys;"Kokomo (From ""Cocktail"")"
+The Escape Club;"Wild, Wild West"
+Bon Jovi;Bad Medicine
+Will To Power;"Baby, I Love Your Way/Freebird Medley"
+Chicago;Look Away
+Poison;Every Rose Has Its Thorn
+Bobby Brown;My Prerogative
+Phil Collins;Two Hearts
+Sheriff;When I'm With You
+Paula Abdul;Straight Up
+Debbie Gibson;Lost In Your Eyes
+Mike + The Mechanics;The Living Years
+The Bangles;Eternal Flame
+Roxette;The Look
+Fine Young Cannibals;She Drives Me Crazy
+Madonna;Like A Prayer
+Bon Jovi;I'll Be There For You
+Paula Abdul;Forever Your Girl
+Michael Damian;"Rock On (From ""Dream A Little Dream"")"
+Bette Midler;"Wind Beneath My Wings (From ""Beaches"")"
+New Kids On The Block;I'll Be Loving You (Forever)
+Richard Marx;Satisfied
+Milli Vanilli;Baby Don't Forget My Number
+Fine Young Cannibals;Good Thing
+Simply Red;If You Don't Know Me By Now
+Martika;Toy Soldiers
+Prince;"Batdance (From ""Batman"")"
+Richard Marx;Right Here Waiting
+Paula Abdul;Cold Hearted
+New Kids On The Block;Hangin' Tough
+Gloria Estefan;Don't Wanna Lose You
+Milli Vanilli;Girl I'm Gonna Miss You
+Janet Jackson;Miss You Much
+Roxette;Listen To Your Heart
+Bad English;When I See You Smile
+Milli Vanilli;Blame It On The Rain
+Billy Joel;We Didn't Start The Fire
+Phil Collins;Another Day In Paradise
+Michael Bolton;How Am I Supposed To Live Without You
+Paula Abdul (Duet With The Wild Pair);Opposites Attract
+Janet Jackson;Escapade
+Alannah Myles;Black Velvet
+Taylor Dayne;Love Will Lead You Back
+Tommy Page;I'll Be Your Everything
+Sinead O'Connor;Nothing Compares 2 U
+Madonna;Vogue
+Wilson Phillips;Hold On
+Roxette;"It Must Have Been Love (From ""Pretty Woman"")"
+New Kids On The Block;Step By Step
+Glenn Medeiros feat. Bobby Brown;She Ain't Worth It
+Mariah Carey;Vision Of Love
+Sweet Sensation;If Wishes Came True
+Jon Bon Jovi;"Blaze Of Glory (From ""Young Guns II"")"
+Wilson Phillips;Release Me
+Nelson;(Can't Live Without Your) Love And Affection
+Maxi Priest;Close To You
+George Michael;Praying For Time
+James Ingram;I Don't Have The Heart
+Janet Jackson;Black Cat
+Vanilla Ice;Ice Ice Baby
+Mariah Carey;Love Takes Time
+Whitney Houston;I'm Your Baby Tonight
+Stevie B;Because I Love You (The Postman Song)
+Madonna;Justify My Love
+Janet Jackson;Love Will Never Do (Without You)
+Surface;The First Time
+C+C Music Factory;Gonna Make You Sweat (Everybody Dance Now)
+Whitney Houston;All The Man That I Need
+Mariah Carey;Someday
+Timmy T.;One More Try
+Gloria Estefan;Coming Out Of The Dark
+Londonbeat;I've Been Thinking About You
+Wilson Phillips;You're In Love
+Amy Grant;Baby Baby
+Roxette;Joyride
+Hi-Five;I Like The Way (The Kissing Game)
+Mariah Carey;I Don't Wanna Cry
+Extreme;More Than Words
+Paula Abdul;Rush Rush
+EMF;Unbelievable
+Bryan Adams;(Everything I Do) I Do It For You
+Paula Abdul;The Promise Of A New Day
+Color Me Badd;I Adore Mi Amor
+Marky Mark & The Funky Bunch/Loleatta Holloway;Good Vibrations
+Mariah Carey;Emotions
+Karyn White;Romantic
+Prince And The N.P.G.;Cream
+Michael Bolton;When A Man Loves A Woman
+P.M. Dawn;Set Adrift On Memory Bliss
+Michael Jackson;Black Or White
+Color Me Badd;All 4 Love
+George Michael/Elton John;Don't Let The Sun Go Down On Me
+Right Said Fred;I'm Too Sexy
+Mr. Big;To Be With You
+Vanessa Williams;Save The Best For Last
+Kris Kross;Jump
+Mariah Carey;I'll Be There
+Sir Mix-A-Lot;Baby Got Back
+Madonna;This Used To Be My Playground
+Boyz II Men;"End Of The Road (From ""Boomerang"")"
+The Heights;How Do You Talk To An Angel
+Whitney Houston;"I Will Always Love You (From ""The Bodyguard"")"
+Peabo Bryson & Regina Belle;A Whole New World (Aladdin's Theme)
+Snow;Informer
+Silk;Freak Me
+Janet Jackson;That's The Way Love Goes
+SWV;Weak
+UB40;"Can't Help Falling In Love (From ""Sliver"")"
+Mariah Carey;Dreamlover
+Meat Loaf;I'd Do Anything For Love (But I Won't Do That)
+Janet Jackson;Again
+Mariah Carey;Hero
+Bryan Adams/Rod Stewart/Sting;All For Love
+Celine Dion;The Power Of Love
+Ace Of Base;The Sign
+R. Kelly;Bump N' Grind
+All-4-One;I Swear
+Lisa Loeb & Nine Stories;"Stay (I Missed You) (From ""Reality Bites"")"
+Boyz II Men;I'll Make Love To You
+Boyz II Men;On Bended Knee
+Ini Kamoze;"Here Comes The Hotstepper (From ""Ready To Wear"")"
+TLC;Creep
+Madonna;Take A Bow
+Montell Jordan;This Is How We Do It
+Bryan Adams;Have You Ever Really Loved A Woman?
+TLC;Waterfalls
+Seal;"Kiss From A Rose (From ""Batman Forever"")"
+Michael Jackson;You Are Not Alone
+Coolio Featuring L.V.;"Gangsta's Paradise (From ""Dangerous Minds"")"
+Mariah Carey;Fantasy
+Whitney Houston;"Exhale (Shoop Shoop) (From ""Waiting To Exhale"")"
+Mariah Carey & Boyz II Men;One Sweet Day
+Celine Dion;"Because You Loved Me (From ""Up Close & Personal"")"
+Mariah Carey;Always Be My Baby
+Bone Thugs-N-Harmony;Tha Crossroads
+2Pac Featuring K-Ci And JoJo;How Do U Want It/California Love
+Toni Braxton;You're Makin' Me High/Let It Flow
+Los Del Rio;Macarena (Bayside Boys Mix)
+BLACKstreet (feat. Dr. Dre);No Diggity
+Toni Braxton;Un-Break My Heart
+Spice Girls;Wannabe
+Puff Daddy (feat. Mase);Can't Nobody Hold Me Down
+The Notorious B.I.G.;Hypnotize
+Hanson;MMMBop
+Puff Daddy & Faith Evans feat. 112;I'll Be Missing You
+The Notorious B.I.G. feat. Puff Daddy & Mase;Mo Money Mo Problems
+Mariah Carey;Honey
+Boyz II Men;4 Seasons Of Loneliness
+Elton John;Candle In The Wind 1997/Something About The Way You Look Tonight
+Savage Garden;Truly Madly Deeply
+Janet;Together Again
+Usher;Nice & Slow
+Celine Dion;My Heart Will Go On
+Will Smith;Gettin' Jiggy Wit It
+K-Ci & JoJo;All My Life
+Next;Too Close
+Mariah Carey;My All
+Brandy & Monica;The Boy Is Mine
+Aerosmith;I Don't Want To Miss A Thing
+Monica;The First Night
+Barenaked Ladies;One Week
+Lauryn Hill;Doo Wop (That Thing)
+Divine;Lately
+R. Kelly & Celine Dion;I'm Your Angel
+Brandy;Have You Ever?
+Britney Spears;...Baby One More Time
+Monica;Angel Of Mine
+Cher;Believe
+TLC;No Scrubs
+Ricky Martin;Livin' La Vida Loca
+Jennifer Lopez;If You Had My Love
+Destiny's Child;"Bills, Bills, Bills"
+Will Smith feat. Dru Hill & Kool Mo Dee;Wild Wild West
+Christina Aguilera;Genie In A Bottle
+Enrique Iglesias;Bailamos
+TLC;Unpretty
+Mariah Carey feat. Jay-Z;Heartbreaker
+Santana feat. Rob Thomas;Smooth
+Christina Aguilera;What A Girl Wants
+Savage Garden;I Knew I Loved You
+Mariah Carey feat. Joe & 98 Degrees;Thank God I Found You
+Lonestar;Amazed
+Destiny's Child;Say My Name
+Santana feat. The Product G&B;Maria Maria
+Aaliyah;Try Again
+Enrique Iglesias;Be With You
+Vertical Horizon;Everything You Want
+matchbox twenty;Bent
+'N Sync;It's Gonna Be Me
+Sisqo;Incomplete
+Janet;Doesn't Really Matter
+Madonna;Music
+Christina Aguilera;Come On Over Baby (All I Want Is You)
+Creed;With Arms Wide Open
+Destiny's Child;Independent Women Part I
+"Shaggy feat. Ricardo ""RikRok"" Ducent";It Wasn't Me
+OutKast;Ms. Jackson
+Joe feat. Mystikal;Stutter
+Crazy Town;Butterfly
+Shaggy feat. Rayvon;Angel
+Janet;All For You
+"Christina Aguilera, Lil' Kim, Mya & Pink";Lady Marmalade
+Usher;U Remind Me
+Destiny's Child;Bootylicious
+Alicia Keys;Fallin'
+Jennifer Lopez feat. Ja Rule;I'm Real
+Mary J. Blige;Family Affair
+Usher;U Got It Bad
+Nickelback;How You Remind Me
+Ja Rule feat. Ashanti;Always On Time
+Jennifer Lopez feat. Ja Rule;Ain't It Funny
+Ashanti;Foolish
+Nelly;Hot In Herre
+Nelly feat. Kelly Rowland;Dilemma
+Kelly Clarkson;A Moment Like This
+Eminem;Lose Yourself
+B2K & P. Diddy;"Bump, Bump, Bump"
+Jennifer Lopez feat. LL Cool J;All I Have
+50 Cent;In Da Club
+Sean Paul;Get Busy
+50 Cent feat. Nate Dogg;21 Questions
+Clay Aiken;This Is The Night
+Beyonce feat. Jay-Z;Crazy In Love
+"Nelly, P. Diddy & Murphy Lee";Shake Ya Tailfeather
+Beyonce feat. Sean Paul;Baby Boy
+Ludacris feat. Shawnna;Stand Up
+OutKast;Hey Ya!
+OutKast feat. Sleepy Brown;The Way You Move
+Twista feat. Kanye West & Jamie Foxx;Slow Jamz
+Usher feat. Lil Jon & Ludacris;Yeah!
+Usher;Burn
+Fantasia;I Believe
+Usher;Confessions Part II
+Juvenile feat. Soulja Slim;Slow Motion
+Terror Squad;Lean Back
+Ciara feat. Petey Pablo;Goodies
+Usher And Alicia Keys;My Boo
+Snoop Dogg feat. Pharrell;Drop It Like It's Hot
+Mario;Let Me Love You
+50 Cent feat. Olivia;Candy Shop
+Gwen Stefani;Hollaback Girl
+Mariah Carey;We Belong Together
+Carrie Underwood;Inside Your Heaven
+Kanye West feat. Jamie Foxx;Gold Digger
+Chris Brown;Run It!
+Mariah Carey;Don't Forget About Us
+D4L;Laffy Taffy
+"Nelly feat. Paul Wall, Ali & Gipp";Grillz
+Beyonce feat. Slim Thug;Check On It
+James Blunt;You're Beautiful
+Ne-Yo;So Sick
+Sean Paul;Temperature
+Daniel Powter;Bad Day
+Rihanna;SOS
+Chamillionaire feat. Krayzie Bone;Ridin'
+Shakira feat. Wyclef Jean;Hips Don't Lie
+Taylor Hicks;Do I Make You Proud
+Nelly Furtado feat. Timbaland;Promiscuous
+Fergie;London Bridge
+Justin Timberlake;SexyBack
+Ludacris feat. Pharrell;Money Maker
+Justin Timberlake feat. T.I.;My Love
+Akon feat. Snoop Dogg;I Wanna Love You
+Beyonce;Irreplaceable
+Nelly Furtado;Say It Right
+Justin Timberlake;What Goes Around...Comes Around
+Mims;This Is Why I'm Hot
+Fergie feat. Ludacris;Glamorous
+Akon;Don't Matter
+Timbaland feat. Nelly Furtado & Justin Timberlake;Give It To Me
+Avril Lavigne;Girlfriend
+Maroon 5;Makes Me Wonder
+T-Pain feat. Yung Joc;Buy U A Drank (Shawty Snappin')
+Rihanna feat. Jay-Z;Umbrella
+Plain White T's;Hey There Delilah
+Sean Kingston;Beautiful Girls
+Fergie;Big Girls Don't Cry
+Soulja Boy Tell'em;Crank That (Soulja Boy)
+Kanye West;Stronger
+Chris Brown feat. T-Pain;Kiss Kiss
+Alicia Keys;No One
+Flo Rida feat. T-Pain;Low
+Usher feat. Young Jeezy;Love In This Club
+Leona Lewis;Bleeding Love
+Mariah Carey;Touch My Body
+Lil Wayne feat. Static Major;Lollipop
+Rihanna;Take A Bow
+Coldplay;Viva La Vida
+Katy Perry;I Kissed A Girl
+Rihanna;Disturbia
+T.I.;Whatever You Like
+P!nk;So What
+T.I. feat. Rihanna;Live Your Life
+Britney Spears;Womanizer
+Beyonce;Single Ladies (Put A Ring On It)
+Lady Gaga feat. Colby O'Donis;Just Dance
+Kelly Clarkson;My Life Would Suck Without You
+"Eminem, Dr. Dre & 50 Cent";Crack A Bottle
+Flo Rida;Right Round
+Lady Gaga;Poker Face
+The Black Eyed Peas;Boom Boom Pow
+The Black Eyed Peas;I Gotta Feeling
+Jay Sean feat. Lil Wayne;Down
+Britney Spears;3
+Owl City;Fireflies
+Jason Derulo;Whatcha Say
+Jay-Z + Alicia Keys;Empire State Of Mind
+Ke$ha;TiK ToK
+The Black Eyed Peas;Imma Be
+Taio Cruz feat. Ludacris;Break Your Heart
+Rihanna;Rude Boy
+B.o.B feat. Bruno Mars;Nothin' On You
+Usher feat. will.i.am;OMG
+Eminem;Not Afraid
+Katy Perry feat. Snoop Dogg;California Gurls
+Eminem feat. Rihanna;Love The Way You Lie
+Katy Perry;Teenage Dream
+Bruno Mars;Just The Way You Are
+Far*East Movement feat. Cataracs & Dev;Like A G6
+Ke$ha;We R Who We R
+Rihanna feat. Drake;What's My Name?
+Rihanna;Only Girl (In The World)
+P!nk;Raise Your Glass
+Katy Perry;Firework
+Bruno Mars;Grenade
+Britney Spears;Hold It Against Me
+Wiz Khalifa;Black And Yellow
+Lady Gaga;Born This Way
+Katy Perry feat. Kanye West;E.T.
+Rihanna feat. Britney Spears;S&M
+Adele;Rolling In The Deep
+"Pitbull feat. Ne-Yo, Afrojack & Nayer";Give Me Everything
+LMFAO feat. Lauren Bennett & GoonRock;Party Rock Anthem
+Katy Perry;Last Friday Night (T.G.I.F.)
+Maroon 5 feat. Christina Aguilera;Moves Like Jagger
+Adele;Someone Like You
+Rihanna feat. Calvin Harris;We Found Love
+LMFAO;Sexy And I Know It
+Adele;Set Fire To The Rain
+Kelly Clarkson;Stronger (What Doesn't Kill You)
+Katy Perry;Part Of Me
+fun. feat. Janelle Monae;We Are Young
+Gotye feat. Kimbra;Somebody That I Used To Know
+Carly Rae Jepsen;Call Me Maybe
+Flo Rida;Whistle
+Taylor Swift;We Are Never Ever Getting Back Together
+Maroon 5;One More Night
+Rihanna;Diamonds
+Bruno Mars;Locked Out Of Heaven
